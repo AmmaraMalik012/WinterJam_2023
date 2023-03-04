@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/L1_It's_Just_That_Simple.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/L2_Btn_Is_Your_Friend.unity
+    guid: f40a26cfbbd8c814fb5a3c6b7082ade7
+  - enabled: 1
+    path: Assets/Scenes/L3_Try_Weight.unity
+    guid: 26be57e2a7d9fcb4881e3929f9ee53b2
+  - enabled: 1
+    path: Assets/Scenes/L4_Think_Differently.unity
+    guid: b40bec9e8ee681244940efce0b5899a8
+  - enabled: 1
+    path: Assets/Scenes/L5_Snake_Friends.unity
+    guid: e7d914a50229d9c458a837b619316d14
+  - enabled: 1
+    path: Assets/Scenes/L7_It's_Not_LvL_7_You've_Trust_Issues.unity
+    guid: 53d2d60827c3e064e9495eea33a18fa2
+  - enabled: 1
+    path: Assets/Scenes/L8_It's_Not_What_It_Seems_like.unity
+    guid: 9b1f2869bf9490f43b8b59b2fa14d22f
+  - enabled: 1
+    path: Assets/Scenes/L9_Take_A_Slide.unity
+    guid: c797a23e5ccf2ac49a37e5a6b63bc90b
+  m_configObjects: {}
