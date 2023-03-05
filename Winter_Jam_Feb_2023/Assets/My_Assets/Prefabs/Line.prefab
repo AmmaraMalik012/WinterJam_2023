@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 533780868883805593}
   - component: {fileID: 533780868883805592}
   - component: {fileID: 5142531737413558436}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Line
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!120 &533780868883805588
 LineRenderer:
-  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -130,13 +129,10 @@ LineRenderer:
     numCapVertices: 10
     alignment: 0
     textureMode: 0
-    textureScale: {x: 1, y: 1}
     shadowBias: 0.5
     generateLightingData: 0
-  m_MaskInteraction: 0
   m_UseWorldSpace: 0
   m_Loop: 0
-  m_ApplyActiveColorSpace: 1
 --- !u!210 &533780868883805591
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -148,7 +144,6 @@ SortingGroup:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_SortAtRoot: 0
 --- !u!50 &533780868883805593
 Rigidbody2D:
   serializedVersion: 4
